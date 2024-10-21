@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/someJARs/changedistiller-0.0.1-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/someJARs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/someJARs/java-diff-utils-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/someJARs/javaparser-core-3.25.9.jar"/>
+	<classpathentry kind="lib" path="D:/someJARs/commons-text-1.12.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
