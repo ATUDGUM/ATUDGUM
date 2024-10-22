@@ -3,3 +3,9 @@ Here is the relevant code and data for our proposed novel approach ATUDGUM. Data
 
 ## StaticAnalysisTool
 The project is used to analyze the types of production code changes that make test code obsolete and to build prompt.
+
+## jars
+This folder contains some JAR files that you need to import into the StaticAnalysisTool project in order to run it.
+
+## eval
+
