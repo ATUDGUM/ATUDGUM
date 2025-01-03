@@ -1,3 +1,5 @@
+**Read this in other languages: [English](README.md), [中文](README_zh.md).**
+
 # ATUDGUM
 Here is the relevant code and data for ATUDGUM. Data in main branch.
 
