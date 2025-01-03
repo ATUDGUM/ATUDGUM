@@ -1,3 +1,5 @@
+**其他语言版本: [English](README.md), [中文](README_zh.md).**
+
 # ATUDGUM
 这是ATUDGUM的相关代码和数据。数据在main分支中。
 
