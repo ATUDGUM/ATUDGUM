@@ -1,5 +1,5 @@
 # ATUDGUM
-Here is the relevant code and data for our proposed novel approach ATUDGUM. Data in main branch.
+Here is the relevant code and data for ATUDGUM. Data in main branch.
 
 ## StaticAnalysisTool
 The project is used to analyze the types of production code changes that make test code obsolete and to build prompt. In StaticAnalysisTool/src/use/Usage.java, there are specific examples demonstrating how to use this project for code change type analysis and prompt construction.
